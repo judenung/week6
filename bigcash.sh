@@ -1,7 +1,7 @@
 #!/bin/bash
 
 getsumlines(){
-  
+  grep -E
 }
 
-getsumlines 
+getsumlines attdata.txt
